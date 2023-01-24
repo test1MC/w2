@@ -7,9 +7,9 @@
     xml:space="preserve"
     original="APPLE.htm"
     source-language="en-us"
+    target-language="ar"
     MadCap:file-filter=""
-    datatype="xhtml"
-    target-language="ar">
+    datatype="xhtml">
     <header>
       <skl><external-file
           href="APPLE.htm.skl" /></skl>
@@ -45,9 +45,9 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>APPLE</source><seg-source><mrk
+        phase-name="pretrans"><source>APPLE new</source><seg-source><mrk
             mtype="seg"
-            mid="1">APPLE</mrk></seg-source><target
+            mid="1">APPLE new</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
